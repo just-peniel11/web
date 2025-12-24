@@ -1,0 +1,132 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin-top: 0;
+  font-family: serif;
+}
+
+
+h2 {
+  color: #66BFBF;
+  font-family: sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+p {
+  line-height: 2;
+}
+
+
+
+h3 {
+  color: #11999E;
+  font-family: sans-serif;
+}
+
+  hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+
+  }
+
+
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+.middle-container {
+margin: 100px 0;
+}
+
+
+.bottom-container {
+background-color: #66BFBF;
+padding: 50px 0 20px;
+}
+
+.skills-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+
+
+.buttonClass {
+  font-size:20px;
+    font-family: sans-serif;
+  width:144px;
+  height:40px;
+  border-width:1px;
+  color:#fff;
+  border-color:#4e6096;
+  font-weight:bold;
+  border-top-left-radius:8px;
+  border-top-right-radius:8px;
+  border-bottom-left-radius:8px;
+  border-bottom-right-radius:8px;
+  box-shadow: 0px 0px 0px 2px #9fb4f2;
+  text-shadow: 0px 1px 0px #283966;
+  background:linear-gradient(rgb(120, 146, 194), #476e9e);
+}
+
+.buttonClass:hover {
+  background: linear-gradient(#476e9e, rgb(120, 146, 194));
+}
+
+
+    .computer-img {
+      float: left;
+      width: 25%;
+      margin-right: 30px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.pro {
+  text-decoration: underline;
+}
+
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
